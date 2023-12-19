@@ -1,0 +1,71 @@
+div{
+    margin: auto;
+    border: salmon;
+}
+
+
+.Home{
+    background-color: greenyellow;
+    text-align: center;
+    font-size: 50px;
+
+    font-style: italic;
+    padding: 0px;
+}
+.navbarr{
+    background-color: gray;
+    text-align: center;
+    color: aliceblue;
+
+
+    font-size: 25px;
+    padding: 0px;
+}
+.navbar ul{
+    list-style-type: none;
+    background-color: gray;
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+}
+.navbar a{
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    display: block;
+    text-align: center;
+}
+.navbar a:hover{
+    background-color: yellowgreen;
+}
+.navbar li{
+    float: left;
+}
+.Projects{
+    background-color: black;
+    text-align: center;
+    color: aliceblue;
+    padding: 0%;
+    display: flex;
+    justify-content: center;
+    
+
+}
+.Project-A{
+    background-color:seagreen;
+}
+.Project-B{
+    background-color:slateblue;
+}
+.Project-C{
+    background-color:blueviolet;
+}
+.Contact{
+    background-color:yellow;
+    text-align: center;
+
+
+    padding: 0px;
+    
+
+}
